@@ -5,3 +5,5 @@ commit
 &
 
 push
+
+editor: add more about this story
